@@ -1,0 +1,16 @@
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\obj\Debug\net5.0\Multiply smaller number.csproj.AssemblyReference.cache
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\obj\Debug\net5.0\Multiply smaller number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\obj\Debug\net5.0\Multiply smaller number.AssemblyInfoInputs.cache
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\obj\Debug\net5.0\Multiply smaller number.AssemblyInfo.cs
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\obj\Debug\net5.0\Multiply smaller number.csproj.CoreCompileInputs.cache
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\bin\Debug\net5.0\Multiply smaller number.exe
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\bin\Debug\net5.0\Multiply smaller number.deps.json
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\bin\Debug\net5.0\Multiply smaller number.runtimeconfig.json
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\bin\Debug\net5.0\Multiply smaller number.runtimeconfig.dev.json
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\bin\Debug\net5.0\Multiply smaller number.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\bin\Debug\net5.0\ref\Multiply smaller number.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\bin\Debug\net5.0\Multiply smaller number.pdb
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\obj\Debug\net5.0\Multiply smaller number.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\obj\Debug\net5.0\ref\Multiply smaller number.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\obj\Debug\net5.0\Multiply smaller number.pdb
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Multiply smaller number\obj\Debug\net5.0\Multiply smaller number.genruntimeconfig.cache
